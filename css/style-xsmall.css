@@ -1,0 +1,39 @@
+/*
+	Read Only by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+	html, body {
+		min-width: 320px;
+		font-size: 12pt;
+	}
+
+
+/* Footer */
+    #footer .container {
+        width: 70% !important;
+    }
+
+/*Apresentacao*/
+
+div.signature p.name {
+    margin-top: 0;
+}
+
+div.signature, div.certified-french-teacher {
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: center;
+}
+div.signature div, div.certified-french-teacher div {
+    float:none;
+}
+div.signature p.name , div.certified-french-teacher p {
+    margin-top: 1em;
+}    
+div.signature p, div.certified-french-teacher p {
+    text-align: center;
+}
